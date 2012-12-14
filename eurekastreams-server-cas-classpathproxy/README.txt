@@ -1,0 +1,2 @@
+This project is here to server as a bombproof way to ensure that the eurekastreams-server-cas classes are loaded 
+before the eurekastreams-server classes. See - http://owenou.com/2010/07/20/patching-with-class-shadowing-and-maven.html
